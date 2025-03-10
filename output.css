@@ -1,0 +1,14 @@
+html , body{
+    scroll-behavior: smooth;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    ::-webkit-scrollbar{
+        width: 5px;
+    }
+    ::-webkit-scrollbar-track{
+        background: white;
+    }
+    ::-webkit-scrollbar-thumb{
+        background: gray;
+        border-radius: 10px;
+    }
+}

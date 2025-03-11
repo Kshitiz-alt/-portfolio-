@@ -16,8 +16,7 @@ public
 
 
 
-# Ruby (Jekyll) Dependencies
-Gemfile.lock
+
 
 # Editor directories and files
 .vscode/*

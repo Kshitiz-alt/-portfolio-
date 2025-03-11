@@ -7,10 +7,18 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# Dependencies
 node_modules
 dist
 dist-ssr
 *.local
+public
+
+# Jekyll Build Output
+_site
+
+# Ruby (Jekyll) Dependencies
+Gemfile.lock
 
 # Editor directories and files
 .vscode/*
@@ -22,3 +30,4 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+

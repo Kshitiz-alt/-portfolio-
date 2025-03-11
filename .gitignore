@@ -14,8 +14,7 @@ dist-ssr
 *.local
 public
 
-# Jekyll Build Output
-_site
+
 
 # Ruby (Jekyll) Dependencies
 Gemfile.lock

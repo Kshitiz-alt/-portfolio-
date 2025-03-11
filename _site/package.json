@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.12",
+    "jekyll": "^3.0.0-beta1",
+    "tailwindcss": "^4.0.12"
+  },
+  "devDependencies": {
+    "bundler": "^0.8.0"
+  },
+  "scripts": {
+    "install": "bundle install",
+    "build": "bundle exec jekyll build",
+    "serve": "bundle exec jekyll serve"
+  },
+  "name": "idcanymore",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kshitiz-alt/Main.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Kshitiz-alt/Main/issues"
+  },
+  "homepage": "https://github.com/Kshitiz-alt/Main#readme",
+  "description": ""
+}

@@ -241,6 +241,9 @@
   .w-full {
     width: 100%;
   }
+  .min-w-0 {
+    min-width: calc(var(--spacing) * 0);
+  }
   .border-collapse {
     border-collapse: collapse;
   }

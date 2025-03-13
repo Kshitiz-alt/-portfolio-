@@ -450,6 +450,16 @@
       margin-left: 2.5em !important;
     }
   }
+  .max-\[375px\]\:hidden {
+    @media (width < 375px) {
+      display: none;
+    }
+  }
+  .max-\[375px\]\:hidden\! {
+    @media (width < 375px) {
+      display: none !important;
+    }
+  }
   .max-\[320px\]\:top-\[1em\] {
     @media (width < 320px) {
       top: 1em;

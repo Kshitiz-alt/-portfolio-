@@ -420,6 +420,11 @@
       top: 150em !important;
     }
   }
+  .max-\[375px\]\:top-\[180em\]\! {
+    @media (width < 375px) {
+      top: 180em !important;
+    }
+  }
   .max-\[375px\]\:bottom-0\! {
     @media (width < 375px) {
       bottom: calc(var(--spacing) * 0) !important;
